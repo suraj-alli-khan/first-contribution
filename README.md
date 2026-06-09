@@ -1,3 +1,3 @@
-# first-contribution
+# first-contributions
 
 this is the sample repository 
